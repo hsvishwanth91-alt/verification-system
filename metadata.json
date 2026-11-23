@@ -1,0 +1,6 @@
+{
+  "name": "CertiTrust — Digital Certificate Verification System",
+  "description": "Secure academic credential issuance, SHA-256 PDF verification, QR code authentication, and role-based verification portal.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
